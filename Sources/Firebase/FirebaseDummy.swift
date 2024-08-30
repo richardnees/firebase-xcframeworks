@@ -1,0 +1,21 @@
+import Foundation
+
+import FBLPromises
+import FirebaseABTesting
+import FirebaseCore
+import FirebaseCoreExtension
+import FirebaseCoreInternal
+import FirebaseCrashlytics
+import FirebaseInstallations
+import FirebaseRemoteConfig
+import FirebaseRemoteConfigInterop
+import FirebaseSessions
+import FirebaseSharedSwift
+import GoogleDataTransport
+import GoogleUtilities
+import GTMSessionFetcher
+import Promises
+import nanopb
+
+public class FirebaseDummy {
+}
