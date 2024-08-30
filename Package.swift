@@ -3,7 +3,7 @@
 
 import PackageDescription
 
-let versionString = "10.25.0"
+let versionString = "10.25.1"
 
 let binaryFrameworks: [(String, String)] = [
     ("FirebaseABTesting",           "7e9eb5a4371058b5293b0077271728a2e81ccad1c71b0dcca61c8ec276adee4e"),
